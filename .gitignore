@@ -1,5 +1,7 @@
 *.png
 *.csv
+dist/
+network_stability.egg-info/
 
 # Created by https://www.gitignore.io/api/venv,pycharm
 # Edit at https://www.gitignore.io/?templates=venv,pycharm
