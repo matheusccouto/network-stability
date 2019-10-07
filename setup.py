@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="network_stability",
-    version="1.0.1",
+    version="1.0.3",
     author="Matheus Couto",
     author_email="matheusccouto@gmail.com",
     description="Network connectivity and speed test.",
@@ -20,5 +20,5 @@ setuptools.setup(
                 ],
     python_requires='>=3.6',
     install_requires=['numpy', 'pandas', 'matplotlib', 'speedtest-cli', 'scipy'],
-    keywords = ['NETWORK', 'STABILITY', 'TEST', 'SPEED', 'CONNECTION'],
+    keywords=['NETWORK', 'STABILITY', 'TEST', 'SPEED', 'CONNECTION'],
 )
