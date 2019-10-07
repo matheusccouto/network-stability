@@ -19,6 +19,6 @@ setuptools.setup(
                 "Operating System :: OS Independent",
                 ],
     python_requires='>=3.6',
-    install_requires=['numpy', 'pandas', 'matplotlib', 'speedtest-cli', 'socket', 'scipy'],
+    install_requires=['numpy', 'pandas', 'matplotlib', 'speedtest-cli', 'scipy'],
     keywords = ['NETWORK', 'STABILITY', 'TEST', 'SPEED', 'CONNECTION'],
 )
