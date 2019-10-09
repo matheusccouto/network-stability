@@ -340,10 +340,10 @@ class NetworkTest(object):
 
 if __name__ == '__main__':
     net = NetworkTest()
-    net.connection_test_interval(minutes=1)
+    net.connection_test_interval(hours=1)
     net.export_connection_results('connection.csv')
     net.report_connection('connection.png')
-    net.speed_test_interval(minutes=1)
+    net.speed_test_interval(hours=1)
     net.export_speed_results('speed.csv')
     net.report_speed('speed.png')
     print('Done!')
