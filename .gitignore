@@ -4,3 +4,4 @@ dist/
 network_stability.egg-info/
 .idea/
 venv/
+__pycache__/
