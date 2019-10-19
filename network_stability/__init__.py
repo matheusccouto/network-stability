@@ -337,6 +337,8 @@ class NetworkTest(object):
         # Save figure
         plt.savefig(file_name, bbox_inches='tight')
 
+        return fig
+
 
 if __name__ == '__main__':
     net = NetworkTest()
