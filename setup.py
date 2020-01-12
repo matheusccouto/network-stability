@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="network_stability",
-    version="1.0.3",
+    version="1.0.4",
     author="Matheus Couto",
     author_email="matheusccouto@gmail.com",
     description="Network connectivity and speed test.",

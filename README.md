@@ -9,7 +9,7 @@ Python 3.6+
 
 ### Installing
 
-Use the package manager pip to install foobar.
+Use the package manager pip to install the package.
 ```bash
 pip install network_stability
 ```
